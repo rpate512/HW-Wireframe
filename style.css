@@ -1,0 +1,68 @@
+header {
+	padding: 30px;
+	margin: 20px 50px 20px 50px;
+	color: grey;
+	background: white;
+	text-align: center;
+}
+body {
+	background: grey;
+}
+nav {
+	padding: 30px;
+	margin: 20px 50px 20px 50px;
+	color: grey;
+	background: white;
+	text-align: center;
+}
+footer {
+	padding: 30px;
+	margin: 20px 50px 20px 50px;
+	color: grey;
+	background: white;
+	text-align: center;	
+}
+#aside {
+	float: right;
+	background: white;
+	color: grey;
+	width: 35%;
+	padding: 20px;
+	text-align: center;
+	margin: 10px;
+	height: 180px;
+	}
+
+#lefty {
+	display: block;
+	color: grey;
+	width: 50%;
+	height: 230px;
+	text-align: center;
+	margin-left: 50px;
+	background: white;
+	/*padding: 30px;*/
+
+}
+#article {
+	background: grey;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin: 20px;
+}
+#articleBox1 {
+	background: white;
+	color: grey;
+	padding:10px;
+	margin: 10px;
+	font-weight: bold;
+}
+#articleBox2 {
+	background: white;
+	color: grey;
+	padding:10px;
+	margin: 10px;
+}
+.wrapper {
+}
