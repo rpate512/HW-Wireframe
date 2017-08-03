@@ -23,20 +23,20 @@ footer {
 	text-align: center;	
 }
 #aside {
-	float: right;
 	background: white;
 	color: grey;
-	width: 35%;
-	padding: 20px;
+	width: 40%;
+	padding: 14px;
 	text-align: center;
-	margin: 10px;
-	height: 180px;
+	margin-right: 50px;
+	margin-bottom: 21px;
+	height: 203px;
 	}
 
 #lefty {
 	display: block;
 	color: grey;
-	width: 50%;
+	width: 45%;
 	height: 230px;
 	text-align: center;
 	margin-left: 50px;
